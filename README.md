@@ -1,24 +1,11 @@
-# README
+# finance-tracker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### 2 of the 4 COURSE PROJECTS FROM ['The Complete Ruby on Rails Developer Course' by Rob Percival & Mashrur Hossain](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/)
 
-Things you may want to cover:
+### This is the finance tracker app from the Complete Ruby on Rails Developer course
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## To run
+1) `git clone https://github.com/ramirezjag00/rails-finance-tracker.git`
+2) `cd project-name`
+3) `bundle install`
+4) `rails s`
